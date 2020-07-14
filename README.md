@@ -1,3 +1,5 @@
 # Krishna-Portfolio
 
-# [Project 1 Living in Ahmedabad] (https://sites.google.com/view/livinginahmedabad/blogs)
+## [Living in Ahmedabad] (https://sites.google.com/view/livinginahmedabad/blogs)
+
+##[Linkedin profile] (www.linkedin.com/in/krishna-patel-681242198)
